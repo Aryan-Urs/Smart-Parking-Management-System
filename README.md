@@ -3,7 +3,6 @@
 A comprehensive parking management solution built with a MySQL database and a Streamlit web interface. This system allows administrators to manage users, book reservations, and handle billing.
 
 ---
-
 ## 🚀 Features
 
 * **Dashboard**: A real-time, color-coded visual grid of all parking spaces, showing their status as 'Available' or 'Occupied'.
